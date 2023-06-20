@@ -25,6 +25,15 @@ The Virtual DOM is a virtual copy of the DOM. When our applications state change
 
 ![lnrn_0201](https://github.com/jamalabd/React-cheatsheet/assets/45414121/981c8e90-af0e-4eba-90cc-f256bd9a515d)
 
+## What is JSX?
+JSX stands for Javascript in XML ( eXtensible Markup Language ), like HTML ( Hypertext Markup Language ) XML is a highly readable markup language. So essentially JSX is Javascript written to look like HTML.
+
+The key here is to remember 'looks like'. We are not actually writing any HTML, JSX gives us the readability of HTML while leveraging the functionality of Javascript. JSX is used to describe what the UI will look like. In this way react is [Declarative](https://alexsidorenko.com/blog/react-is-declarative-what-does-it-mean/).
+
+So why JSX? Essentially JSX allows us to combine our markup and our logic. This gives us the ability to keep our markup and our logic for let's say a header component in the same file. 
+
+
+
 
 <!-- 
 --Todo--
