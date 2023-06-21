@@ -32,8 +32,11 @@ The key here is to remember 'looks like'. We are not actually writing any HTML, 
 
 So why JSX? Essentially JSX allows us to combine our markup and our logic. This gives us the ability to keep our markup and our logic for let's say a header component in the same file. 
 
+## Class components vs Functional components
+Before we get into the difference between Class-based components and function-based components it's important to know what a component is in react. 
+A component is simply a way of organizing your code. Components are written in JSX and JSX is used to describe what the UI will look like so each component will describe a peace of the UI. 
 
-
+This allows you to split up your code into reusable pieces that you can use throughout your application, it also has the added benefit of forcing you to focus on one piece of UI at a time, thinking of each piece in isolation.
 
 <!-- 
 --Todo--
